@@ -1,4 +1,5 @@
 <?php
+/*Esto es un comentario*/
 	include_once("conexion.inc.php");
 	
 	function selectResultadoB(){
