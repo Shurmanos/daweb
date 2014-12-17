@@ -18,7 +18,6 @@
 	
 	function insertPregunta4(){
 		global $conexion;
-		global $tiempo;
 		return mysql_query("INSERT INTO jugador (usuario,aciertos,fallos,tiempo) VALUES ('".$_SESSION['usuario']."',".$_SESSION['aciertos'].",".$_SESSION['fallos'].",".$tiempo.")",$conexion);
 	}
 	
