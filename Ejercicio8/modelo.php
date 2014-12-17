@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 /*Esto es un comentario*/
+=======
+//comentario luis
+>>>>>>> origin/master
 	include_once("conexion.inc.php");
 	
 	function selectResultadoB(){
