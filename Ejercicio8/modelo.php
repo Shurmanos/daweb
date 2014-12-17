@@ -1,4 +1,5 @@
 <?php
+//comentario luis
 	include_once("conexion.inc.php");
 	
 	function selectResultadoB(){
