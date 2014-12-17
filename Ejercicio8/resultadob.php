@@ -4,6 +4,7 @@
 	</head>
 	<body>
 		<?php 
+		//Inclusion de archivos necesarios. En verdad este comentario es para que haya cambios en github.
 			include_once("conexion.inc.php");
 			include_once("modelo.php");
 			$sql = selectResultadoB();
