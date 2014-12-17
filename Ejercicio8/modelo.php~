@@ -1,4 +1,4 @@
-//Modificación Andrés
+//Probando Merge
 
 <?php
 	include_once("conexion.inc.php");

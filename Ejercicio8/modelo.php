@@ -1,3 +1,5 @@
+//Probando Merge
+
 <?php
 <<<<<<< HEAD
 /*Esto es un comentario*/
